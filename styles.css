@@ -1,0 +1,21 @@
+body{
+  background-color: #202020;
+  margin: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title{
+  color: white;
+  font-size: 4rem;
+  margin: .3rem;
+}
+
+.paragraph{
+  color: #e1e1e1;
+  margin: .3rem;
+  font-size: 2rem;
+}
